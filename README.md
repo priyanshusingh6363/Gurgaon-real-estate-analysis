@@ -36,7 +36,9 @@ The goal was to perform **Exploratory Data Analysis (EDA)** and extract meaningf
 ## 📊 Visualizations
 The analysis includes:
 - Bar charts (Locality vs Price)
+- ![alt text](https://github.com/priyanshusingh6363/Gurgaon-real-estate-analysis/blob/main/average_price_by_locality.png)
 - Scatter plots (Area vs Price)
+- ![alt text](https://github.com/priyanshusingh6363/Gurgaon-real-estate-analysis/blob/main/area_vs_rate_per_sqft.png)
 
 All visualizations were created using:
 - Python
